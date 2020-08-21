@@ -4,5 +4,8 @@
   "type": "module",
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "sharp": "^0.25.4"
   }
 }
